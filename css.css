@@ -1,0 +1,24 @@
+ #headersoutinfo{
+        height: 84px;
+        background-color: rgb(255, 255, 255);
+    }
+    #headertablesoutinfo{
+        display: table;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+    #linkmenusoutinfo{
+        min-width: 696px;
+        padding: 20px 16px;
+        display: inline;
+        font-size: 20;
+    }
+    a{
+        text-decoration: none;
+    }
+
+
+body{
+
+	background-image="lol.gif";
+	}
